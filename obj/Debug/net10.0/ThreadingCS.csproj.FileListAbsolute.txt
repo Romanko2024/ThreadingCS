@@ -1,0 +1,14 @@
+C:\Users\Ron\ThreadingCS\bin\Debug\net10.0\ThreadingCS.exe
+C:\Users\Ron\ThreadingCS\bin\Debug\net10.0\ThreadingCS.deps.json
+C:\Users\Ron\ThreadingCS\bin\Debug\net10.0\ThreadingCS.runtimeconfig.json
+C:\Users\Ron\ThreadingCS\bin\Debug\net10.0\ThreadingCS.dll
+C:\Users\Ron\ThreadingCS\bin\Debug\net10.0\ThreadingCS.pdb
+C:\Users\Ron\ThreadingCS\obj\Debug\net10.0\ThreadingCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ron\ThreadingCS\obj\Debug\net10.0\ThreadingCS.AssemblyInfoInputs.cache
+C:\Users\Ron\ThreadingCS\obj\Debug\net10.0\ThreadingCS.AssemblyInfo.cs
+C:\Users\Ron\ThreadingCS\obj\Debug\net10.0\ThreadingCS.csproj.CoreCompileInputs.cache
+C:\Users\Ron\ThreadingCS\obj\Debug\net10.0\ThreadingCS.dll
+C:\Users\Ron\ThreadingCS\obj\Debug\net10.0\refint\ThreadingCS.dll
+C:\Users\Ron\ThreadingCS\obj\Debug\net10.0\ThreadingCS.pdb
+C:\Users\Ron\ThreadingCS\obj\Debug\net10.0\ThreadingCS.genruntimeconfig.cache
+C:\Users\Ron\ThreadingCS\obj\Debug\net10.0\ref\ThreadingCS.dll
