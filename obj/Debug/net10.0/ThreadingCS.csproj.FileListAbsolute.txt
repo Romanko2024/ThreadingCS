@@ -12,3 +12,4 @@ C:\Users\Ron\ThreadingCS\obj\Debug\net10.0\refint\ThreadingCS.dll
 C:\Users\Ron\ThreadingCS\obj\Debug\net10.0\ThreadingCS.pdb
 C:\Users\Ron\ThreadingCS\obj\Debug\net10.0\ThreadingCS.genruntimeconfig.cache
 C:\Users\Ron\ThreadingCS\obj\Debug\net10.0\ref\ThreadingCS.dll
+C:\Users\Ron\ThreadingCS\obj\Debug\net10.0\ThreadingCS.sourcelink.json
